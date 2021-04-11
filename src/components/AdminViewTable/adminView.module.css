@@ -1,0 +1,42 @@
+.adminview{
+    width: 80%;
+    margin:0  auto;
+    text-align: center;
+}
+
+.box{
+    margin-left: 100px;
+    background-color: #46B2E0;
+    color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s;
+}
+
+
+.box:last-child{
+    margin-left: 100px;
+}
+
+.box:hover{
+    transform: scale(1.1);
+}
+
+.facultyForm{
+
+    width: 40%;
+    margin:  2rem auto 10px auto;
+    padding: 5rem;
+}
+
+.form_label{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.fac_table{
+    padding: 5rem;
+}
